@@ -50,7 +50,6 @@ I am Diksha Shukla. I am a front end developer and programmer eager to contribut
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
@@ -65,4 +64,5 @@ I am Diksha Shukla. I am a front end developer and programmer eager to contribut
   <hr>
 <h3>Github Stats:</h3>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=dikshashukla455&count_private=true&theme=radical&show_icons=true" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dikshashukla455&count_private=true&theme=radical&show_icons=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshashukla455&layout=compact&theme=tokyonight"/></div>
