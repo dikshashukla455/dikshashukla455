@@ -37,7 +37,7 @@ I am Diksha Shukla. I am a front end developer and programmer eager to contribut
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat" alt="Twitter Badge"/>
   </a>
 <hr>
-<h3>Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp;
@@ -62,7 +62,10 @@ I am Diksha Shukla. I am a front end developer and programmer eager to contribut
  
   </div>
   <hr>
-<h3>Github Stats:</h3>
+<h3 align="center">Github Stats</h3>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dikshashukla455&count_private=true&theme=radical&show_icons=true"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshashukla455&layout=compact&theme=tokyonight"/></div>
+<img src="https://github-readme-stats.vercel.app/api?username=dikshashukla455&count_private=true&theme=radical&show_icons=true"/>
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshashukla455&layout=compact&theme=tokyonight"/></div>
